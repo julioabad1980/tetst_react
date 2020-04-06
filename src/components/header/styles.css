@@ -1,0 +1,7 @@
+header .nav-link:hover {
+    color: black;
+}
+header .nav-link {
+    color: gray;
+}
+
